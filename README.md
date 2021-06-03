@@ -1,6 +1,7 @@
 linkedin - https://www.linkedin.com/in/jhon-rey-mendiola-758685213/
 </br>
-Project link - https://angpayas055.github.io/Project_Doctor/
+Landing page Project link - https://angpayas055.github.io/Project_Doctor/
+<HTML><CSS>
 
 - 👋 Hi, I’m Jhon Rey Mendiola
 - 👀 I’m interested in Playing Clash of Clans, and doing front-end Technologies
