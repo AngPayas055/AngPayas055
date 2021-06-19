@@ -5,14 +5,19 @@ https://angpayas055.github.io/personal-website/public/index.html
 </br>
 Technologies: HTML,CSS;Bootsrap, Javascript
 </br></br>
-Landing page Project link - https://angpayas055.github.io/Project_Doctor/
+Landing page Project link</br>
+https://angpayas055.github.io/Project_Doctor/
 </br>
 Technologies: HTML,CSS;
 </br></br>
 Dashboard Project
 </br>
 https://angpayas055.github.io/dashboard/public/index.html</br>
-Technologies: HTML,CSS;Bootsrap, Javascript</br>
+Technologies: HTML,CSS;Bootsrap, Javascript</br></br>
+Loan Calculator </br>
+https://angpayas055.github.io/Loan-Calculator/public/index.html</br>
+Technologies : HTML,CSS;Bootsrap, Javascript</br></br>
+
 
 
 - 👋 Hi, I’m Jhon Rey Mendiola
