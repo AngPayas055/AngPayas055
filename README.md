@@ -1,6 +1,7 @@
-linkedin - https://www.linkedin.com/in/jhon-rey-mendiola-758685213/
+linkedin</br>https://www.linkedin.com/in/jhon-rey-mendiola-758685213/
 </br></br>
-Personal Website - https://angpayas055.github.io/personal-website/public/index.html
+Personal Website</br>
+https://angpayas055.github.io/personal-website/public/index.html
 </br>
 Technologies: HTML,CSS;Bootsrap, Javascript
 </br></br>
