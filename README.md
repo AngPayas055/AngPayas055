@@ -16,7 +16,7 @@ https://angpayas055.github.io/dashboard/public/index.html</br>
 Technologies: HTML,CSS;Bootsrap, Javascript</br></br>
 Loan Calculator </br>
 https://angpayas055.github.io/Loan-Calculator/public/index.html</br>
-Technologies : HTML,CSS;Bootsrap, Javascript</br></br>
+Technologies : HTML,CSS;Bootsrap, Javascript</br></br> 
 
 
 
