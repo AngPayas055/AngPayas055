@@ -1,5 +1,10 @@
 linkedin</br>https://www.linkedin.com/in/jhon-rey-mendiola-758685213/
 </br></br>
+Duelist</br>
+https://duelist-next-project.vercel.app/
+</br>
+Technologies: next.js, node, chart.js, bootsrap, react.js
+</br></br>
 Personal Website</br>
 https://angpayas055.github.io/personal-website/public/index.html
 </br>
