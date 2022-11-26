@@ -2,8 +2,6 @@ linkedin</br>https://www.linkedin.com/in/jhon-rey-mendiola-758685213/
 </br></br>
 - 👋 Hi, I’m Jhon Rey R. Mendiola
 - 👀 Software Engineer
-- 📫 How to reach me ...
-
 
 <!---
 Jhon Rey Mendiola/AngPayas055 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
